@@ -22,7 +22,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -31,13 +31,12 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia
-            nam quo quod sequi cum dolorum nulla! Placeat quae optio adipisci
-            aperiam enim nisi quasi, magnam at sit obcaecati id quibusdam. Lorem
-            ipsum dolor, sit amet consectetur adipisicing elit. Dolores impedit
-            qui nostrum aspernatur corporis, error est soluta iusto! Obcaecati,
-            consequuntur dicta iste optio ullam accusantium dolorem error
-            asperiores harum fuga!
+            A Software Developer with training and experience in JavaScript and
+            React programming. Knowledgeable in wide range of development
+            languages and methodologies. Bright critical thinker with proven
+            talent for learning quickly in results-oriented environment as well
+            as solving real-world problems with code, researching new software
+            tools, and taking on new challenges.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
