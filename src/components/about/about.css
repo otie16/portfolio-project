@@ -6,7 +6,8 @@
 }
 
 section {
-  margin-top: 6rem;
+  /* margin-top: 4rem; */
+  overflow: hidden;
 }
 
 article > h5 {
@@ -54,7 +55,7 @@ article > h5 {
 
 .about__card:hover {
   background: transparent;
-  background: var(--color-primary-variant);
+  border-color: var(--color-primary-variant);
   cursor: default;
 }
 
