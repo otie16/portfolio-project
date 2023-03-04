@@ -19,7 +19,7 @@ body {
 
 /* css variable */
 :root {
-  --color-bg: #1f1f38;
+  --color-bg: #181839;
   --color-bg-variant: #2c2c6c;
   --color-primary: #4db5ff;
   --color-primary-variant: rgba(77, 181, 255, 0.4);
@@ -71,11 +71,14 @@ section {
 }
 
 section > h2,
-section h5 {
+section > h5 {
   text-align: center;
   color: var(--color-light);
 }
 
+/* div > h5{
+text-align: left;
+} */
 section > h2 {
   color: var(--color-primary);
   margin-bottom: 3rem;
