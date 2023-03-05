@@ -12,7 +12,7 @@ const contact = () => {
       <div className="container contact__container">
         <div className="contact-options">
           <article className="contact-option">
-            <MdOutlineEmail className=".contact__option-icon"/>
+            <MdOutlineEmail className=".contact__option-icon" />
             <h4>Email</h4>
             <h5>otobongedoho18@gmail.com</h5>
             <a
@@ -27,7 +27,11 @@ const contact = () => {
             <RiMessengerLine className=".contact__option-icon" />
             <h4>Messenger</h4>
             <h5>Otobong Godwin</h5>
-            <a href="facebook.me" target="_blank" rel="noreferrer">
+            <a
+              href="https://web.facebook.com/otobong.godwin.35"
+              target="_blank"
+              rel="noreferrer"
+            >
               Send a message
             </a>
           </article>
@@ -36,7 +40,7 @@ const contact = () => {
             <h4>Whatsapp</h4>
             <h5>+2348081512182</h5>
             <a
-              href="http://api.whatsapp.com/send?phone=+2348081512182"
+              href="http://api.whatsapp.com/send?phone=2348081512182"
               target="_blank"
               rel="noreferrer"
             >
